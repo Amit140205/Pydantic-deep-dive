@@ -1,0 +1,17 @@
+# Virtual environment (managed by uv)
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Distribution / build artifacts
+dist/
+build/
+*.egg-info/
+
+# UV lockfile (DO NOT IGNORE - Commit this!)
+# uv.lock
+
+# Project-specific local settings
+.python-version
